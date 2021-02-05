@@ -7,7 +7,7 @@ SimploModule is a simple file extension that makes your code easier to read with
 Download the lastest release and add it to your folder, to use it add a line to your main code with:
 
 ```JavaScript
-const { LoadModule ExportModule } = require("./SimploModule")
+const { LoadModule, ExportModule } = require("./SimploModule")
 ```
 
 ## Documentation
